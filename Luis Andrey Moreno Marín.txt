@@ -1,0 +1,2 @@
+Tanto Git como GitHub, me parecen muy útiles. Yo como desarrollador sé lo que es echar a perder un código jaja,
+y tener la posibilidad de volver a versión antigua, me parece sumamente útil.
