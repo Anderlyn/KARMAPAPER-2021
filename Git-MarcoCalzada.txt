@@ -1,0 +1,2 @@
+Git es una herramienta que me sirve para llevar un control de todos los cambio y versiones que se le hacen a un documento, proyecto, código, etc.
+GitHub es una plataforma que me permite llevar un control de estos cambios en la nube. Esto facilita el trabajo de muchas personas en un solo proyecto.
