@@ -1,0 +1,10 @@
+María Fernanda Cantillo Flores 
+
+ En este paper comprendí el uso básico de la herramienta Git, junto con Github. Este paper me pareció de gran utilidad 
+para poder controlar y modificar las versiones de un proyecto, esto es bastante práctico ya que si se modificó algo y eso dañó el
+proyecto, se puede devolver a su estatus anterior.También se pueden copiar branches para no modificar el main y así.
+
+ 
+ Con github se puede colaborar en proyectos de código abierto, en los cuales uno se encuentra interesado, y de la misma forma uno puede descargar
+el código fuente de algún software de código abierto para estudiarlo, aprederlo o modificarlo.
+Muchas gracias por el taller, se aprendió bastante en las 2 horas 
