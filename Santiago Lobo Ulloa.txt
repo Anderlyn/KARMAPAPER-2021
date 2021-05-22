@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Me parece una plataforma bastante interesante y útil, aunque en ocasiones hay cosas que se me hacen un poco ambiguas, pero me parece una gran herramienta.
+=======
+Me parece un pograma bastante interesante y útil, en lo personal me pareción un poco complicado debido a que no conozco muchos términos, pero eso no quita que es una herramienta muy útil.
+>>>>>>> new
